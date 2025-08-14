@@ -1,3 +1,4 @@
+.
 @ Simple Pong Game
 
 A classic **Pong** game built using **HTML5 Canvas**, **JavaScript**, and **CSS**.  
@@ -12,7 +13,8 @@ Play against a simple AI opponent and see how high you can score!
 
 
 Project Structure
-.
+
+
 ├── index.html # Main HTML file
 ├── styles.css # Styling for the game
 └── script.js # Game logic
